@@ -1,0 +1,1 @@
+{"list":[{"saveType":"SQUARE","size":30,"x":0,"y":95},{"saveType":"TRIANGLE","size":30,"x":55,"y":0}],"activeShapeIndex":1}
